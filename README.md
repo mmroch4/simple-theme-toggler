@@ -1,2 +1,3 @@
-# sample-simple-theme-toggler
-A simple theme toggler
+# Simple Theme Toggler
+
+This a simple theme toggler made using only HTML, CSS and JS.
